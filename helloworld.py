@@ -1,3 +1,3 @@
-print("8 * 3.57")
+import math
 
-print(8 * 3.57)
+print(math.pow(5,8))
